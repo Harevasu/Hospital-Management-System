@@ -23,14 +23,11 @@
 ![WhatsApp Image 2024-11-14 at 13 38 39_de0c3a6a](https://github.com/user-attachments/assets/9eed9284-844a-4ac1-8bab-b8c9fdeb4405)
 
 
-## COMMUNICATION DIAGRAM:
+## COLLABORATION DIAGRAM:
 
 ![WhatsApp Image 2024-11-14 at 13 38 46_33106b9a](https://github.com/user-attachments/assets/70fb9199-c55b-46aa-a4c5-59cdf69283a5)
 
 
-## PACKAGE DIAGRAM:
-
-![WhatsApp Image 2024-11-14 at 13 38 53_40ec6463](https://github.com/user-attachments/assets/5a8eaa68-5283-4c4f-91b5-b5a660551d31)
 
 
 ## Result:
